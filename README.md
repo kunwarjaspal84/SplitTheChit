@@ -1,3 +1,4 @@
 # SplitTheChit
 This is a simple check splitting application created using SwiftUI
+
 <img src="https://github.com/kunwarjaspal84/SplitTheChit/blob/main/Simulator%20Screen%20Shot%20-%20iPhone%2012%20Pro%20-%202021-05-27%20at%2016.28.03.png" width="400" height="790">
